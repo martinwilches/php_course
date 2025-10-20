@@ -8,13 +8,15 @@
 */
 
 // echo imprime mensajes en pantalla (strings, int, etc.)
-echo '<h1>Hello World</h1>';
+// echo '<h1>Hello World</h1>';
 
 // imprimir el contenido de un arreglo
-print_r([1,2,3]);
+// print_r([1,2,3]);
 
 // imprimir informacion adicional de un valor (tipo de dato y tamaño)
 var_dump(100);
+
+// cerrar un bloque php
 ?>
 
 <!DOCTYPE html>

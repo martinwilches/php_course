@@ -13,14 +13,10 @@
 
 // las variables inician con el simbolo `$`
 $name = 'Martin';
-echo $name;
-
-echo "<br>";
+// echo $name;
 
 // interpolar una variable dentro de un string (el string debe envolverse entre comillas dobles)
-echo "My name is $name";
-
-echo "<br>";
+// echo "My name is $name";
 
 /************
  * Constantes
