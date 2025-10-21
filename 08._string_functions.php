@@ -28,3 +28,13 @@ $string = 'hello world';
 
 // retornar la porcion de un string
 // echo substr($string, 0, 5); // [offset, length]
+
+// validar si empieza con
+// echo str_starts_with($string, 'hello');
+
+// validar si finaliza con
+// echo str_ends_with($string, 'world');
+
+// convertir caracteres especiales a entidades html
+$string2 = '<script>alert(1)</script>';
+echo htmlspecialchars($string2);
