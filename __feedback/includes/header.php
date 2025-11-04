@@ -1,5 +1,6 @@
 <?php
 
+// se incluye el archivo de configuracion de la base de datos en el componente usado por todos los archivos de la aplicacion
 include 'config/database.php';
 
 ?>
